@@ -1,2 +1,2 @@
 # welcome
-This is welcome program written in c language
+This is c language Program.
